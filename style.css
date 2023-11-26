@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: #DEBE84;
+    text-align: center;
+    padding: 10px;
+}
+.bg-img{
+    background: url("https://media.sugarcosmetics.com/upload/VTOBackgroungTexture.png");
+}
